@@ -1,5 +1,6 @@
-#preview
-#https://eloquent-khorana-44cda3.netlify.app/#wgpt3
+#preview.
+
+#https://eloquent-khorana-44cda3.netlify.app
 
 # Getting Started with Create React App
 
